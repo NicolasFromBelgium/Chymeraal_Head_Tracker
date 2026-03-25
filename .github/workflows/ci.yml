@@ -58,4 +58,4 @@ jobs:
 
       - run: pip install -e .
       - run: pip install -r requirements-dev.txt
-      - run: pytest tests/unit/ --cov=src/tdd_template --cov-report=term-missing
+      - run: pytest tests/unit/ --cov=src/chymeraal_head_tracker --cov-report=term-missing

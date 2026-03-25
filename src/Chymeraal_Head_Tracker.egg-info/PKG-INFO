@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: Chymeraal_Head_Tracker
+Version: 0.1.0
+Summary: Head Tracking you VR set easily
+Requires-Python: >=3.11
+License-File: LICENSE
+Dynamic: license-file

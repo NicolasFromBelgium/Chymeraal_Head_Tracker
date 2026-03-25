@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/Chymeraal_Head_Tracker.egg-info/PKG-INFO
+src/Chymeraal_Head_Tracker.egg-info/SOURCES.txt
+src/Chymeraal_Head_Tracker.egg-info/dependency_links.txt
+src/Chymeraal_Head_Tracker.egg-info/top_level.txt
+src/chymeraal_head_tracker/__init__.py
+src/chymeraal_head_tracker/mavlink_gimbal.py
+src/chymeraal_head_tracker/quest_tracker.py
