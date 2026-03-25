@@ -1,4 +1,4 @@
-name: CI - TDD Python Template
+name: CI - Chymeraal Head Tracker System
 
 on:
   push:
