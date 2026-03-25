@@ -40,7 +40,7 @@ jobs:
 
       - run: pip install -e .
       - run: pip install -r requirements-dev.txt
-      - run: mypy -p tdd_template --config-file pyproject.toml
+      - run: mypy -p chymeraal_head_tracker --config-file pyproject.toml
 
   unit-tests:
     runs-on: ubuntu-latest
