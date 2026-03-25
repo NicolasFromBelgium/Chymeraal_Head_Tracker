@@ -6,8 +6,6 @@ from chymeraal_head_tracker.quest_tracker import QuestTracker
 
 def main():
     tracker = QuestTracker()
-    # Démarre automatiquement l'écoute UDP
-    tracker.start_udp_listener()
     gui = HeadTrackerGUI(tracker)
     gui.run()
 
